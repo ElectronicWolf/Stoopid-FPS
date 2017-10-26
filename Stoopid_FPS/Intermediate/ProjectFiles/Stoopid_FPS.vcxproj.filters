@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Stoopid_FPS.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{3CC4FC80-15C9-4F1B-AA61-B67C8B544F4F}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Stoopid_FPS.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\Stoopid_FPSEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{7217C3D5-14E6-498C-AAD2-13A518F1AD52}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Stoopid_FPS">
+			<UniqueIdentifier>{AFA662E2-9DDB-4EBC-AAF4-A828B7C1B61F}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\Stoopid_FPS\CL_StoopidFPS_Gamemode.cpp">
+			<Filter>Source\Stoopid_FPS</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Stoopid_FPS\CL_StoopidFPS_Gamemode.h">
+			<Filter>Source\Stoopid_FPS</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\Stoopid_FPS\Stoopid_FPS.Build.cs">
+			<Filter>Source\Stoopid_FPS</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Stoopid_FPS\Stoopid_FPS.cpp">
+			<Filter>Source\Stoopid_FPS</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Stoopid_FPS\Stoopid_FPS.h">
+			<Filter>Source\Stoopid_FPS</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

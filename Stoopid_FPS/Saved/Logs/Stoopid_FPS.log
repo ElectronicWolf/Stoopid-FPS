@@ -1,0 +1,1228 @@
+﻿Log file open, 10/25/17 20:21:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Stoopid_FPS
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(2141883221) SRandInit(2141883221).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3709383, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.154751
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3709383
+LogInit: Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Oct 20 2017 10:39:19
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: A:/Unreal Engine Things/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.26-03.21.04:405][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.26-03.21.04:406][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.26-03.21.04:415][  0]LogInit: Computer: DESKTOP-SSL098G
+[2017.10.26-03.21.04:415][  0]LogInit: User: antma
+[2017.10.26-03.21.04:415][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.10.26-03.21.04:415][  0]LogInit: High frequency timer resolution =3.417982 MHz
+[2017.10.26-03.21.04:415][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.10.26-03.21.04:415][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.26-03.21.04:415][  0]LogMemory: Process Physical Memory: 272.24 MB used, 272.24 MB peak
+[2017.10.26-03.21.04:415][  0]LogMemory: Process Virtual Memory: 269.68 MB used, 269.68 MB peak
+[2017.10.26-03.21.04:415][  0]LogMemory: Physical Memory: 7121.09 MB used,  9190.91 MB free, 16312.00 MB total
+[2017.10.26-03.21.04:415][  0]LogMemory: Virtual Memory: 677.31 MB used,  9190.91 MB free, 134217728.00 MB total
+[2017.10.26-03.21.04:506][  0]LogInit: Using OS detected language (en-US).
+[2017.10.26-03.21.04:506][  0]LogInit: Using OS detected locale (en-US).
+[2017.10.26-03.21.04:509][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.10.26-03.21.04:871][  0]LogInit: Setting process to per monitor DPI aware
+[2017.10.26-03.21.05:081][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.26-03.21.05:137][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.10.26-03.21.05:137][  0]LogD3D11RHI:       8096/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.10.26-03.21.05:139][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.26-03.21.05:139][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.26-03.21.05:139][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.26-03.21.05:144][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.26-03.21.05:144][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.26-03.21.05:144][  0]LogWindows: EnumDisplayDevices:
+[2017.10.26-03.21.05:144][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.10.26-03.21.05:144][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.10.26-03.21.05:144][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.10.26-03.21.05:144][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.10.26-03.21.05:144][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.10.26-03.21.05:144][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.10.26-03.21.05:144][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.10.26-03.21.05:144][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.10.26-03.21.05:144][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2017.10.26-03.21.05:167][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.26-03.21.05:188][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.10.26-03.21.05:238][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Intermediate/Shaders/WorkingDirectory/11228/).
+[2017.10.26-03.21.05:238][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/antma/AppData/Local/Temp/UnrealShaderWorkingDir/78D0C93E45DD9634F37C7BB6100211FA/'.
+[2017.10.26-03.21.05:238][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.26-03.21.06:062][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.26-03.21.06:097][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.26-03.21.06:132][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.26-03.21.06:166][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.26-03.21.06:204][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.26-03.21.06:244][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.26-03.21.06:278][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.26-03.21.06:312][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.26-03.21.06:340][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.26-03.21.06:376][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.26-03.21.06:411][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.26-03.21.06:445][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.26-03.21.06:478][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.26-03.21.06:512][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.26-03.21.06:577][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.26-03.21.06:577][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.26-03.21.06:610][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.26-03.21.06:634][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.26-03.21.06:698][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.26-03.21.06:717][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.26-03.21.06:749][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.26-03.21.06:782][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.26-03.21.06:815][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.26-03.21.06:847][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.26-03.21.06:847][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.26-03.21.07:135][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.26-03.21.07:205][  0]LogDerivedDataCache: Loaded boot cache 0.07s 69MB C:/Users/antma/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.10.26-03.21.07:205][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/antma/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.10.26-03.21.07:205][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.26-03.21.07:205][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.26-03.21.07:205][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.26-03.21.07:205][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.26-03.21.07:222][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.26-03.21.07:234][  0]LogDerivedDataCache: Using Local data cache path C:/Users/antma/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.26-03.21.07:243][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.26-03.21.07:243][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.26-03.21.07:244][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.26-03.21.07:244][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.26-03.21.07:562][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.26-03.21.07:717][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.26-03.21.07:742][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.26-03.21.07:742][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.26-03.21.07:742][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.26-03.21.07:742][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.26-03.21.07:742][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.26-03.21.07:835][  0]LogNetVersion: Stoopid_FPS , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3507961601)
+[2017.10.26-03.21.07:962][  0]LogAssetRegistry: FAssetRegistry took 0.0254 seconds to start up
+[2017.10.26-03.21.08:447][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.065094 seconds
+[2017.10.26-03.21.08:452][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.10.26-03.21.08:452][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.10.26-03.21.08:452][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.26-03.21.08:483][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.26-03.21.10:599][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.26-03.21.10:636][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.26-03.21.11:087][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.26-03.21.11:367][  0]SourceControl: Source control is disabled
+[2017.10.26-03.21.11:367][  0]SourceControl: Source control is disabled
+[2017.10.26-03.21.11:406][  0]SourceControl: Source control is disabled
+[2017.10.26-03.21.11:440][  0]SourceControl: Source control is disabled
+[2017.10.26-03.21.11:968][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.26-03.21.12:139][  0]LogOcInput: OculusInput pre-init called
+[2017.10.26-03.21.12:329][  0]LogEngine: Initializing Engine...
+[2017.10.26-03.21.12:331][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.10.26-03.21.12:544][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.26-03.21.12:544][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.26-03.21.12:641][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.26-03.21.12:651][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.26-03.21.12:660][  0]LogInit: FAudioDevice initialized.
+[2017.10.26-03.21.12:823][  0]LogDerivedDataCache: Saved boot cache 0.16s 78MB C:/Users/antma/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.10.26-03.21.12:835][  0]LogInit: Texture streaming: Enabled
+[2017.10.26-03.21.12:894][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.26-03.21.12:976][  0]LogInit: Transaction tracking system initialized
+[2017.10.26-03.21.13:162][  0]BlueprintLog: New page: Editor Load
+[2017.10.26-03.21.13:751][  0]LocalizationService: Localization service is disabled
+[2017.10.26-03.21.14:247][  0]LogConsoleResponse: Display: 
+[2017.10.26-03.21.14:376][  0]LogFileCache: Scanning file cache for directory 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/' took 0.01s
+[2017.10.26-03.21.14:376][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.26-03.21.14:376][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.26-03.21.14:376][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.26-03.21.15:140][  0]SourceControl: Source control is disabled
+[2017.10.26-03.21.15:140][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.26-03.21.15:140][  0]LightingResults: New page: Lighting Build
+[2017.10.26-03.21.15:166][  0]MapCheck: New page: Map Check
+[2017.10.26-03.21.15:166][  0]LightingResults: New page: Lighting Build
+[2017.10.26-03.21.15:353][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.10.26-03.21.15:359][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.26-03.21.15:368][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.26-03.21.15:402][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 33.25ms to complete.
+[2017.10.26-03.21.15:402][  0]LogFileHelpers: Loading map 'Template_Default' took 0.262
+[2017.10.26-03.21.15:570][  0]LogCollectionManager: Loaded 0 collections in 0.000753 seconds
+[2017.10.26-03.21.15:632][  0]LogFileCache: Scanning file cache for directory 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Collections/' took 0.01s
+[2017.10.26-03.21.15:632][  0]LogFileCache: Scanning file cache for directory 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Developers/antma/Collections/' took 0.01s
+[2017.10.26-03.21.15:632][  0]LogFileCache: Scanning file cache for directory 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Collections/' took 0.01s
+[2017.10.26-03.21.15:632][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.10.26-03.21.15:639][  0]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 2363 classes and 519 folders.
+[2017.10.26-03.21.15:679][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.10.26-03.21.16:147][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.10.26-03.21.16:198][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.10.26-03.21.16:216][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.26-03.21.16:218][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.26-03.21.16:247][  0]LogSlate: Took 0.024383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.26-03.21.16:308][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2017.10.26-03.21.16:390][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2017.10.26-03.21.16:604][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.10.26-03.21.16:604][  0]LogLoad: (Engine Initialization) Total time: 13.92 seconds
+[2017.10.26-03.21.16:604][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.26-03.21.16:604][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.10.26-03.21.16:614][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.26-03.21.16:642][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.10.26-03.21.16:694][  1]LogAssetRegistry: Asset discovery search completed in 8.7533 seconds
+[2017.10.26-03.21.16:696][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.10.26-03.21.16:696][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2017.10.26-03.21.27:995][300]LogRenderer: Reallocating scene render targets to support 1208x604 Format 10 NumSamples 1 (Frame:1343).
+[2017.10.26-03.21.28:033][301]LogRenderer: Reallocating scene render targets to support 1208x612 Format 10 NumSamples 1 (Frame:1345).
+[2017.10.26-03.21.28:073][302]LogRenderer: Reallocating scene render targets to support 1208x616 Format 10 NumSamples 1 (Frame:1347).
+[2017.10.26-03.21.28:113][303]LogRenderer: Reallocating scene render targets to support 1208x620 Format 10 NumSamples 1 (Frame:1349).
+[2017.10.26-03.21.28:152][304]LogRenderer: Reallocating scene render targets to support 1208x628 Format 10 NumSamples 1 (Frame:1351).
+[2017.10.26-03.21.28:222][306]LogRenderer: Reallocating scene render targets to support 1208x632 Format 10 NumSamples 1 (Frame:1355).
+[2017.10.26-03.21.28:259][307]LogRenderer: Reallocating scene render targets to support 1208x640 Format 10 NumSamples 1 (Frame:1357).
+[2017.10.26-03.21.28:296][308]LogRenderer: Reallocating scene render targets to support 1208x648 Format 10 NumSamples 1 (Frame:1359).
+[2017.10.26-03.21.28:334][309]LogRenderer: Reallocating scene render targets to support 1208x656 Format 10 NumSamples 1 (Frame:1361).
+[2017.10.26-03.21.28:370][310]LogRenderer: Reallocating scene render targets to support 1208x660 Format 10 NumSamples 1 (Frame:1363).
+[2017.10.26-03.21.28:409][311]LogRenderer: Reallocating scene render targets to support 1208x664 Format 10 NumSamples 1 (Frame:1365).
+[2017.10.26-03.21.28:448][312]LogRenderer: Reallocating scene render targets to support 1208x668 Format 10 NumSamples 1 (Frame:1367).
+[2017.10.26-03.21.28:518][314]LogRenderer: Reallocating scene render targets to support 1208x672 Format 10 NumSamples 1 (Frame:1371).
+[2017.10.26-03.21.28:595][316]LogRenderer: Reallocating scene render targets to support 1208x676 Format 10 NumSamples 1 (Frame:1375).
+[2017.10.26-03.21.28:630][317]LogRenderer: Reallocating scene render targets to support 1208x688 Format 10 NumSamples 1 (Frame:1377).
+[2017.10.26-03.21.28:668][318]LogRenderer: Reallocating scene render targets to support 1208x696 Format 10 NumSamples 1 (Frame:1379).
+[2017.10.26-03.21.28:704][319]LogRenderer: Reallocating scene render targets to support 1208x704 Format 10 NumSamples 1 (Frame:1381).
+[2017.10.26-03.21.28:771][321]LogRenderer: Reallocating scene render targets to support 1208x708 Format 10 NumSamples 1 (Frame:1385).
+[2017.10.26-03.21.28:883][325]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1391).
+[2017.10.26-03.21.28:955][327]LogRenderer: Reallocating scene render targets to support 1208x716 Format 10 NumSamples 1 (Frame:1395).
+[2017.10.26-03.21.32:108][688]LogRenderer: Reallocating scene render targets to support 1212x716 Format 10 NumSamples 1 (Frame:1682).
+[2017.10.26-03.21.32:145][689]LogRenderer: Reallocating scene render targets to support 1216x716 Format 10 NumSamples 1 (Frame:1684).
+[2017.10.26-03.21.32:182][690]LogRenderer: Reallocating scene render targets to support 1224x716 Format 10 NumSamples 1 (Frame:1686).
+[2017.10.26-03.21.32:222][691]LogRenderer: Reallocating scene render targets to support 1228x716 Format 10 NumSamples 1 (Frame:1688).
+[2017.10.26-03.21.32:264][692]LogRenderer: Reallocating scene render targets to support 1232x716 Format 10 NumSamples 1 (Frame:1690).
+[2017.10.26-03.21.32:333][694]LogRenderer: Reallocating scene render targets to support 1236x716 Format 10 NumSamples 1 (Frame:1694).
+[2017.10.26-03.21.32:371][695]LogRenderer: Reallocating scene render targets to support 1240x716 Format 10 NumSamples 1 (Frame:1696).
+[2017.10.26-03.21.46:392][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.26-03.21.49:786][697]Cmd: DELETE
+[2017.10.26-03.21.49:786][697]Cmd: ACTOR DELETE
+[2017.10.26-03.21.49:788][697]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.26-03.21.49:796][697]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.10.26-03.21.54:747][287]LogMaterial: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2017.10.26-03.21.54:754][287]LogMaterial: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2017.10.26-03.21.54:796][287]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2017.10.26-03.21.54:822][287]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2017.10.26-03.21.54:847][287]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2017.10.26-03.21.54:882][287]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2017.10.26-03.21.54:923][287]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2017.10.26-03.21.54:941][287]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2017.10.26-03.21.54:959][287]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2017.10.26-03.21.55:009][287]LogMaterial: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2017.10.26-03.21.55:021][287]LogMaterial: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2017.10.26-03.21.55:071][287]LogMaterial: Missing cached shader map for material MirrorPlaneMaterial, compiling. 
+[2017.10.26-03.21.55:105][287]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.10.26-03.21.55:127][287]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.10.26-03.21.55:147][287]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.10.26-03.21.55:220][287]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.10.26-03.21.55:246][287]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.10.26-03.21.55:265][287]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.10.26-03.21.55:308][287]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.10.26-03.21.55:355][287]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.10.26-03.21.55:415][287]LogMaterial: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2017.10.26-03.21.55:433][287]LogMaterial: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2017.10.26-03.21.55:476][287]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.10.26-03.21.55:514][287]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.10.26-03.21.55:557][287]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2017.10.26-03.21.55:601][287]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2017.10.26-03.21.55:642][287]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2017.10.26-03.22.40:471][879]Cmd: POLY SELECT ALL
+[2017.10.26-03.22.41:309][969]Cmd: POLY SELECT MEMORY UNION
+[2017.10.26-03.22.58:453][994]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.26-03.22.58:473][994]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2017.10.26-03.22.58:486][994]LogMaterial: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2017.10.26-03.33.45:332][295]Cmd: TRANSACTION UNDO
+[2017.10.26-03.33.45:332][295]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2017.10.26-03.33.45:336][295]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2017.10.26-03.33.45:351][295]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.26-03.38.49:527][420]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.10.26-03.38.51:822][690]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2017.10.26-03.38.53:110][842]Cmd: SELECT NONE
+[2017.10.26-03.40.33:309][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.26-03.40.33:337][769]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 256X256)
+[2017.10.26-03.40.33:831][769]LogSavePackage: Save=507.57ms
+[2017.10.26-03.40.33:831][769]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_1D9DC094E44E991057C9ADDA32B2B9F44.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap'
+[2017.10.26-03.40.33:836][769]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap
+[2017.10.26-03.40.33:868][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1_BuiltData" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset" SILENT=true
+[2017.10.26-03.40.33:884][769]LogSavePackage: Save=13.86ms
+[2017.10.26-03.40.33:884][769]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_1_BuiltData7DEB63334655D2E34856F0A97DCA211B.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset'
+[2017.10.26-03.40.33:886][769]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset
+[2017.10.26-03.40.33:892][769]LogFileHelpers: Saving map 'Level_1' took 0.656
+[2017.10.26-03.40.33:951][773]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.26-03.41.38:090][  5]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.10.26-03.41.40:013][233]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.10.26-03.41.44:631][713]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.10.26-03.41.47:793][ 83]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.10.26-03.41.53:141][663]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.10.26-03.41.56:042][963]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.10.26-03.41.56:980][ 73]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.10.26-03.42.20:928][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.26-03.42.21:028][708]LogSavePackage: Save=83.24ms
+[2017.10.26-03.42.21:028][708]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_1DE95D1144CC5A8443D4F5D8E63780A41.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap'
+[2017.10.26-03.42.21:031][708]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap
+[2017.10.26-03.42.21:055][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1_BuiltData" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset" SILENT=true
+[2017.10.26-03.42.21:074][708]LogSavePackage: Save=11.57ms
+[2017.10.26-03.42.21:074][708]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_1_BuiltDataD5390FAD405414F0DA672DA262CCB05F.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset'
+[2017.10.26-03.42.21:075][708]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset
+[2017.10.26-03.42.25:984][292]MapCheck: New page: Map Check
+[2017.10.26-03.42.25:997][292]Cmd: MAP REBUILD ALLVISIBLE
+[2017.10.26-03.42.25:997][292]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.10.26-03.42.26:047][292]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.10.26-03.42.26:053][292]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2017.10.26-03.42.26:058][292]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy LandscapeGizmo_Mat, compiling. 
+[2017.10.26-03.42.26:463][292]TextureStreamingBuild: Display: Compiling optional shaders took 0.443 seconds.
+[2017.10.26-03.42.26:469][292]LogLevel: Display: Export Material TexCoord Scales took 0.006 seconds.
+[2017.10.26-03.42.26:473][292]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2017.10.26-03.42.26:481][292]LightingResults: New page: Lighting Build - Oct 25, 2017, 1:42:26 PM
+[2017.10.26-03.42.26:611][292]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.10.26-03.42.26:754][292]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.10.26-03.42.26:771][292]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.10.26-03.42.28:336][292]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.10.26-03.42.28:337][292]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11228
+[2017.10.26-03.42.32:216][292]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2017.10.26-03.42.32:216][292]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.10.26-03.42.32:216][292]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.10.26-03.42.32:216][292]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.10.26-03.42.32:217][292]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.10.26-03.42.32:217][292]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.10.26-03.42.32:460][292]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.10.26-03.42.32:460][292]MapCheck: New page: Level_1 - Oct 25, 2017, 1:42:32 PM
+[2017.10.26-03.42.32:461][292]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2017.10.26-03.42.32:504][292]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 44.003ms to complete.
+[2017.10.26-03.42.32:527][292]LogEditorBuildUtils: Build time 0:06
+[2017.10.26-03.42.32:547][292]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2017.10.26-03.42.32:580][292]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2017.10.26-03.42.32:662][293]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_17, compiling. Is special engine material.
+[2017.10.26-03.42.32:672][293]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_17, compiling. Is special engine material.
+[2017.10.26-03.42.33:023][301]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2017.10.26-03.42.33:037][301]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2017.10.26-03.42.53:952][ 47]Job is a success!
+[2017.10.26-03.42.54:215][ 48]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.161s
+[2017.10.26-03.42.54:215][ 48]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2017.10.26-03.42.54:215][ 48]LogVolumetricLightmapImport:      BrickData 1280x30x5 = 5.3Mb
+[2017.10.26-03.42.54:215][ 48]LogVolumetricLightmapImport:      Bricks at Level
+[2017.10.26-03.42.54:215][ 48]LogVolumetricLightmapImport:          0: 0.6% covering 100.0% of volume
+[2017.10.26-03.42.54:215][ 48]LogVolumetricLightmapImport:          1: 6.8% covering 18.9% of volume
+[2017.10.26-03.42.54:215][ 48]LogVolumetricLightmapImport:          2: 92.6% covering 4.0% of volume
+[2017.10.26-03.42.54:444][ 48]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2017.10.26-03.42.54:444][ 48]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2017.10.26-03.42.54:444][ 48]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2017.10.26-03.42.54:444][ 48]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 128X128)
+[2017.10.26-03.42.54:444][ 48]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 128X128)
+[2017.10.26-03.42.54:444][ 48]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2017.10.26-03.42.54:444][ 48]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2017.10.26-03.42.54:444][ 48]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2017.10.26-03.42.54:444][ 48]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2017.10.26-03.42.54:444][ 48]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2017.10.26-03.42.54:444][ 48]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 128X128)
+[2017.10.26-03.42.54:444][ 48]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 128X128)
+[2017.10.26-03.42.54:545][ 48]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 128X64)
+[2017.10.26-03.42.54:546][ 48]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 256X64)
+[2017.10.26-03.42.54:546][ 48]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 128X64)
+[2017.10.26-03.42.54:546][ 48]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 256X64)
+[2017.10.26-03.42.54:546][ 48]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X64)
+[2017.10.26-03.42.54:546][ 48]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2017.10.26-03.42.54:734][ 48]Lightmass on DESKTOP-SSL098G: 18.9 sec total, 203 ms importing, 102 ms setup, 1.62 sec photons, 16.4 sec processing, 0 ms extra exporting [17/17 mappings]. Threads: 1:55 min total, 8.75 sec processing.
+[2017.10.26-03.42.54:767][ 48]LogStaticLightingSystem: Illumination: 28.2 sec (151 ms encoding lightmaps, 140 ms encoding shadowmaps)
+[2017.10.26-03.42.54:767][ 48]LogStaticLightingSystem: Lightmap texture memory:  0.4 MB (0.4 MB streaming, 0.0 MB non-streaming), 12 textures
+[2017.10.26-03.42.54:767][ 48]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 6 textures
+[2017.10.26-03.42.55:253][ 48]DumpUnbuiltLightIteractions
+[2017.10.26-03.42.55:253][ 48]Lights with unbuilt interactions: 0
+[2017.10.26-03.42.55:253][ 48]
+[2017.10.26-03.42.55:253][ 48]Primitives with unbuilt interactions: 0
+[2017.10.26-03.42.55:255][ 49]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.10.26-03.42.55:256][ 49]MapCheck: New page: Level_1 - Oct 25, 2017, 1:42:55 PM
+[2017.10.26-03.42.55:303][ 49]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.688ms to complete.
+[2017.10.26-03.43.08:223][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.26-03.43.08:383][594]LogSavePackage: Save=146.08ms
+[2017.10.26-03.43.08:383][594]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_1CB50D85D4FBCA8B527247787DAEA9D35.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap'
+[2017.10.26-03.43.08:386][594]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap
+[2017.10.26-03.43.08:420][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1_BuiltData" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset" SILENT=true
+[2017.10.26-03.43.08:473][594]LogSavePackage: Save=50.68ms
+[2017.10.26-03.43.08:474][594]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_1_BuiltDataA042734B4F178505CFC533964DED418C.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset'
+[2017.10.26-03.43.08:477][594]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset
+[2017.10.26-03.44.17:918][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.26-03.44.18:076][616]LogSavePackage: Save=146.87ms
+[2017.10.26-03.44.18:076][616]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_1850A495C4BB107403161E3B5FB5DEC60.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap'
+[2017.10.26-03.44.18:085][616]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap
+[2017.10.26-03.44.18:118][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1_BuiltData" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset" SILENT=true
+[2017.10.26-03.44.18:172][616]LogSavePackage: Save=51.11ms
+[2017.10.26-03.44.18:172][616]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_1_BuiltDataEADFCDF24C610BC4CF6811A44FB5498C.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset'
+[2017.10.26-03.44.18:174][616]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset
+[2017.10.26-03.44.20:994][948]MapCheck: New page: Map Check
+[2017.10.26-03.44.21:002][948]Cmd: MAP REBUILD ALLVISIBLE
+[2017.10.26-03.44.21:003][948]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.10.26-03.44.21:025][948]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.10.26-03.44.21:031][948]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2017.10.26-03.44.21:036][948]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy LandscapeGizmo_Mat, compiling. 
+[2017.10.26-03.44.21:438][948]TextureStreamingBuild: Display: Compiling optional shaders took 0.418 seconds.
+[2017.10.26-03.44.21:440][948]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2017.10.26-03.44.21:443][948]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2017.10.26-03.44.21:452][948]LightingResults: New page: Lighting Build - Oct 25, 2017, 1:44:21 PM
+[2017.10.26-03.44.21:462][948]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.10.26-03.44.21:464][948]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.10.26-03.44.21:464][948]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.10.26-03.44.21:465][948]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.10.26-03.44.21:465][948]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11228
+[2017.10.26-03.44.26:050][948]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.10.26-03.44.26:050][948]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.10.26-03.44.26:050][948]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.10.26-03.44.26:050][948]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.10.26-03.44.26:050][948]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.10.26-03.44.26:154][948]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.10.26-03.44.26:154][948]MapCheck: New page: Level_1 - Oct 25, 2017, 1:44:26 PM
+[2017.10.26-03.44.26:193][948]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 38.889ms to complete.
+[2017.10.26-03.44.26:215][948]LogEditorBuildUtils: Build time 0:05
+[2017.10.26-03.44.49:092][161]Job is a success!
+[2017.10.26-03.44.49:338][162]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.213s
+[2017.10.26-03.44.49:338][162]LogVolumetricLightmapImport:      Indirection Texture 48x48x48 = 0.4Mb
+[2017.10.26-03.44.49:338][162]LogVolumetricLightmapImport:      BrickData 1280x40x5 = 7.1Mb
+[2017.10.26-03.44.49:338][162]LogVolumetricLightmapImport:      Bricks at Level
+[2017.10.26-03.44.49:338][162]LogVolumetricLightmapImport:          0: 1.4% covering 100.0% of volume
+[2017.10.26-03.44.49:338][162]LogVolumetricLightmapImport:          1: 6.2% covering 7.0% of volume
+[2017.10.26-03.44.49:338][162]LogVolumetricLightmapImport:          2: 92.4% covering 1.6% of volume
+[2017.10.26-03.44.49:557][162]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2017.10.26-03.44.49:557][162]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2017.10.26-03.44.49:557][162]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2017.10.26-03.44.49:557][162]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 128X128)
+[2017.10.26-03.44.49:557][162]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2017.10.26-03.44.49:557][162]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 256X256)
+[2017.10.26-03.44.49:557][162]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 128X128)
+[2017.10.26-03.44.49:557][162]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 128X128)
+[2017.10.26-03.44.49:557][162]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 256X256)
+[2017.10.26-03.44.49:557][162]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 64X64)
+[2017.10.26-03.44.49:557][162]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 64X64)
+[2017.10.26-03.44.49:557][162]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 128X128)
+[2017.10.26-03.44.49:557][162]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 256X64)
+[2017.10.26-03.44.49:558][162]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 256X64)
+[2017.10.26-03.44.49:610][162]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 128X64)
+[2017.10.26-03.44.49:610][162]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 256X64)
+[2017.10.26-03.44.49:610][162]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 128X64)
+[2017.10.26-03.44.49:610][162]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 32X32)
+[2017.10.26-03.44.49:626][162]Lightmass on DESKTOP-SSL098G: 22.8 sec total, 168 ms importing, 88 ms setup, 2.20 sec photons, 20.4 sec processing, 0 ms extra exporting [17/17 mappings]. Threads: 2:22 min total, 8.45 sec processing.
+[2017.10.26-03.44.49:651][162]LogStaticLightingSystem: Illumination: 28.1 sec (122 ms encoding lightmaps, 128 ms encoding shadowmaps)
+[2017.10.26-03.44.49:651][162]LogStaticLightingSystem: Lightmap texture memory:  0.4 MB (0.4 MB streaming, 0.0 MB non-streaming), 12 textures
+[2017.10.26-03.44.49:651][162]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 6 textures
+[2017.10.26-03.44.50:065][162]DumpUnbuiltLightIteractions
+[2017.10.26-03.44.50:065][162]Lights with unbuilt interactions: 0
+[2017.10.26-03.44.50:065][162]
+[2017.10.26-03.44.50:065][162]Primitives with unbuilt interactions: 0
+[2017.10.26-03.44.50:073][163]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.10.26-03.44.50:073][163]MapCheck: New page: Level_1 - Oct 25, 2017, 1:44:50 PM
+[2017.10.26-03.44.50:114][163]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 41.424ms to complete.
+[2017.10.26-03.45.05:834][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.26-03.45.05:992][ 23]LogSavePackage: Save=145.90ms
+[2017.10.26-03.45.05:992][ 23]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_1DD0DD16943752FACEC871A8562BC52EB.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap'
+[2017.10.26-03.45.05:995][ 23]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap
+[2017.10.26-03.45.06:005][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1_BuiltData" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset" SILENT=true
+[2017.10.26-03.45.06:059][ 23]LogSavePackage: Save=51.46ms
+[2017.10.26-03.45.06:059][ 23]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_1_BuiltDataFCF41DF845581B5510DB29BD4D373407.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset'
+[2017.10.26-03.45.06:062][ 23]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset
+[2017.10.26-03.46.53:121][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.26-03.46.53:203][898]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 256X256)
+[2017.10.26-03.46.53:328][898]LogSavePackage: Save=195.65ms
+[2017.10.26-03.46.53:329][898]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_1941D210E4A124F467910E9A0DABBF607.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap'
+[2017.10.26-03.46.53:332][898]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap
+[2017.10.26-03.46.53:344][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1_BuiltData" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset" SILENT=true
+[2017.10.26-03.46.53:397][898]LogSavePackage: Save=50.87ms
+[2017.10.26-03.46.53:397][898]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_1_BuiltData3D2882514FB60F11AA7B53BF4324806D.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset'
+[2017.10.26-03.46.53:399][898]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset
+[2017.10.26-03.46.56:134][214]MapCheck: New page: Map Check
+[2017.10.26-03.46.56:144][214]Cmd: MAP REBUILD ALLVISIBLE
+[2017.10.26-03.46.56:144][214]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.10.26-03.46.56:166][214]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.10.26-03.46.56:172][214]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_3, compiling. 
+[2017.10.26-03.46.56:177][214]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy LandscapeGizmo_Mat, compiling. 
+[2017.10.26-03.46.56:587][214]TextureStreamingBuild: Display: Compiling optional shaders took 0.426 seconds.
+[2017.10.26-03.46.56:589][214]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2017.10.26-03.46.56:593][214]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2017.10.26-03.46.56:601][214]LightingResults: New page: Lighting Build - Oct 25, 2017, 1:46:56 PM
+[2017.10.26-03.46.56:611][214]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.10.26-03.46.56:613][214]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.10.26-03.46.56:613][214]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.10.26-03.46.56:614][214]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.10.26-03.46.56:614][214]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11228
+[2017.10.26-03.47.01:122][214]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.10.26-03.47.01:122][214]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.10.26-03.47.01:122][214]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.10.26-03.47.01:122][214]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.10.26-03.47.01:122][214]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.10.26-03.47.01:236][214]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.10.26-03.47.01:236][214]MapCheck: New page: Level_1 - Oct 25, 2017, 1:47:01 PM
+[2017.10.26-03.47.01:236][214]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2017.10.26-03.47.01:275][214]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 38.816ms to complete.
+[2017.10.26-03.47.01:296][214]LogEditorBuildUtils: Build time 0:05
+[2017.10.26-03.47.22:368][272]Job is a success!
+[2017.10.26-03.47.22:604][274]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.205s
+[2017.10.26-03.47.22:604][274]LogVolumetricLightmapImport:      Indirection Texture 48x48x48 = 0.4Mb
+[2017.10.26-03.47.22:604][274]LogVolumetricLightmapImport:      BrickData 1280x40x5 = 7.1Mb
+[2017.10.26-03.47.22:604][274]LogVolumetricLightmapImport:      Bricks at Level
+[2017.10.26-03.47.22:604][274]LogVolumetricLightmapImport:          0: 1.4% covering 100.0% of volume
+[2017.10.26-03.47.22:604][274]LogVolumetricLightmapImport:          1: 6.3% covering 7.0% of volume
+[2017.10.26-03.47.22:604][274]LogVolumetricLightmapImport:          2: 92.3% covering 1.6% of volume
+[2017.10.26-03.47.22:852][274]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2017.10.26-03.47.22:852][274]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2017.10.26-03.47.22:852][274]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 128X128)
+[2017.10.26-03.47.22:852][274]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 128X128)
+[2017.10.26-03.47.22:852][274]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2017.10.26-03.47.22:852][274]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2017.10.26-03.47.22:852][274]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2017.10.26-03.47.22:852][274]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2017.10.26-03.47.22:852][274]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 128X128)
+[2017.10.26-03.47.22:852][274]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 128X128)
+[2017.10.26-03.47.22:852][274]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2017.10.26-03.47.22:852][274]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2017.10.26-03.47.22:852][274]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 256X64)
+[2017.10.26-03.47.22:852][274]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 256X64)
+[2017.10.26-03.47.22:852][274]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 128X64)
+[2017.10.26-03.47.22:853][274]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 256X64)
+[2017.10.26-03.47.22:853][274]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 32X32)
+[2017.10.26-03.47.22:853][274]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 128X64)
+[2017.10.26-03.47.22:872][274]Lightmass on DESKTOP-SSL098G: 21.0 sec total, 168 ms importing, 84 ms setup, 2.07 sec photons, 18.6 sec processing, 0 ms extra exporting [17/17 mappings]. Threads: 2:10 min total, 7.98 sec processing.
+[2017.10.26-03.47.22:898][274]LogStaticLightingSystem: Illumination: 26.2 sec (161 ms encoding lightmaps, 67 ms encoding shadowmaps)
+[2017.10.26-03.47.22:899][274]LogStaticLightingSystem: Lightmap texture memory:  0.4 MB (0.4 MB streaming, 0.0 MB non-streaming), 12 textures
+[2017.10.26-03.47.22:899][274]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 6 textures
+[2017.10.26-03.47.23:135][274]DumpUnbuiltLightIteractions
+[2017.10.26-03.47.23:135][274]Lights with unbuilt interactions: 0
+[2017.10.26-03.47.23:135][274]
+[2017.10.26-03.47.23:135][274]Primitives with unbuilt interactions: 0
+[2017.10.26-03.47.23:136][275]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.10.26-03.47.23:136][275]MapCheck: New page: Level_1 - Oct 25, 2017, 1:47:23 PM
+[2017.10.26-03.47.23:176][275]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 40.192ms to complete.
+[2017.10.26-03.47.55:673][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.26-03.47.55:869][169]LogSavePackage: Save=167.52ms
+[2017.10.26-03.47.55:869][169]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_181A4EC3D437198410B133983F621632D.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap'
+[2017.10.26-03.47.55:873][169]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap
+[2017.10.26-03.47.55:898][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1_BuiltData" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset" SILENT=true
+[2017.10.26-03.47.55:967][169]LogSavePackage: Save=55.63ms
+[2017.10.26-03.47.55:967][169]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_1_BuiltDataF8E5C07C4C7A88CF8D2D70B2946D2B21.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset'
+[2017.10.26-03.47.55:971][169]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset
+[2017.10.26-03.52.16:016][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.26-03.52.16:194][ 92]LogSavePackage: Save=166.78ms
+[2017.10.26-03.52.16:194][ 92]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_1FDDD6FD747D3D1B8FAA98183BFDC545A.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap'
+[2017.10.26-03.52.16:198][ 92]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap
+[2017.10.26-03.52.16:231][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1_BuiltData" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset" SILENT=true
+[2017.10.26-03.52.16:285][ 92]LogSavePackage: Save=51.54ms
+[2017.10.26-03.52.16:285][ 92]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_1_BuiltData59970AED4A91EF5230CF3B911E93B019.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset'
+[2017.10.26-03.52.16:287][ 92]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset
+[2017.10.26-03.52.54:639][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.26-03.52.54:818][667]LogSavePackage: Save=167.99ms
+[2017.10.26-03.52.54:818][667]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_133586AE14355EBB1EBD82EA5E878BF29.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap'
+[2017.10.26-03.52.54:822][667]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap
+[2017.10.26-03.52.54:833][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1_BuiltData" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset" SILENT=true
+[2017.10.26-03.52.54:895][667]LogSavePackage: Save=59.87ms
+[2017.10.26-03.52.54:895][667]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_1_BuiltData75647439416C6883C92E94B73007B50F.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset'
+[2017.10.26-03.52.54:897][667]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset
+[2017.10.26-03.53.30:810][732]LogSlate: Took 0.027863 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.10.26-03.54.02:052][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.26-03.54.02:286][407]LogSavePackage: Save=199.41ms
+[2017.10.26-03.54.02:286][407]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_1584D24574DE526B6C6522DA84BDEC045.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap'
+[2017.10.26-03.54.02:290][407]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap
+[2017.10.26-03.54.02:320][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1_BuiltData" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset" SILENT=true
+[2017.10.26-03.54.02:400][407]LogSavePackage: Save=60.62ms
+[2017.10.26-03.54.02:400][407]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_1_BuiltDataB3959295444AA878278EF1BCC91C4D3E.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset'
+[2017.10.26-03.54.02:402][407]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset
+[2017.10.26-03.54.09:838][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.26-03.54.10:021][250]LogSavePackage: Save=169.65ms
+[2017.10.26-03.54.10:021][250]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_19D86C3D2407500B12BB1FB880A020A36.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap'
+[2017.10.26-03.54.10:024][250]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap
+[2017.10.26-03.54.10:034][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1_BuiltData" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset" SILENT=true
+[2017.10.26-03.54.10:108][250]LogSavePackage: Save=72.50ms
+[2017.10.26-03.54.10:108][250]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_1_BuiltDataBBB9C8DC41EB25C98A973FA8D03AFA3D.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset'
+[2017.10.26-03.54.10:110][250]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset
+[2017.10.26-03.54.27:575][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.26-03.54.27:754][280]LogSavePackage: Save=168.84ms
+[2017.10.26-03.54.27:754][280]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_16A5E368E40CBFC89767E33AF86A89FFC.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap'
+[2017.10.26-03.54.27:757][280]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap
+[2017.10.26-03.54.27:767][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1_BuiltData" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset" SILENT=true
+[2017.10.26-03.54.27:838][280]LogSavePackage: Save=67.82ms
+[2017.10.26-03.54.27:838][280]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_1_BuiltData157C028F409307604EDF5ABB14713A99.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset'
+[2017.10.26-03.54.27:840][280]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset
+[2017.10.26-03.54.29:545][479]MapCheck: New page: Map Check
+[2017.10.26-03.54.29:553][479]Cmd: MAP REBUILD ALLVISIBLE
+[2017.10.26-03.54.29:553][479]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.10.26-03.54.29:585][479]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.10.26-03.54.29:590][479]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_4, compiling. 
+[2017.10.26-03.54.29:595][479]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy LandscapeGizmo_Mat, compiling. 
+[2017.10.26-03.54.30:003][479]TextureStreamingBuild: Display: Compiling optional shaders took 0.424 seconds.
+[2017.10.26-03.54.30:004][479]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2017.10.26-03.54.30:008][479]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2017.10.26-03.54.30:016][479]LightingResults: New page: Lighting Build - Oct 25, 2017, 1:54:30 PM
+[2017.10.26-03.54.30:026][479]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.10.26-03.54.30:028][479]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.10.26-03.54.30:028][479]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.10.26-03.54.30:029][479]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.10.26-03.54.30:029][479]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11228
+[2017.10.26-03.54.34:538][479]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.10.26-03.54.34:538][479]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.10.26-03.54.34:538][479]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.10.26-03.54.34:538][479]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.10.26-03.54.34:538][479]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.10.26-03.54.34:650][479]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.10.26-03.54.34:650][479]MapCheck: New page: Level_1 - Oct 25, 2017, 1:54:34 PM
+[2017.10.26-03.54.34:651][479]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2017.10.26-03.54.34:690][479]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 39.662ms to complete.
+[2017.10.26-03.54.34:712][479]LogEditorBuildUtils: Build time 0:05
+[2017.10.26-03.54.55:626][515]Job is a success!
+[2017.10.26-03.54.55:872][517]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.204s
+[2017.10.26-03.54.55:872][517]LogVolumetricLightmapImport:      Indirection Texture 48x48x48 = 0.4Mb
+[2017.10.26-03.54.55:872][517]LogVolumetricLightmapImport:      BrickData 1280x40x5 = 7.1Mb
+[2017.10.26-03.54.55:872][517]LogVolumetricLightmapImport:      Bricks at Level
+[2017.10.26-03.54.55:872][517]LogVolumetricLightmapImport:          0: 1.4% covering 100.0% of volume
+[2017.10.26-03.54.55:872][517]LogVolumetricLightmapImport:          1: 6.3% covering 7.0% of volume
+[2017.10.26-03.54.55:872][517]LogVolumetricLightmapImport:          2: 92.3% covering 1.6% of volume
+[2017.10.26-03.54.56:103][517]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2017.10.26-03.54.56:103][517]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2017.10.26-03.54.56:103][517]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2017.10.26-03.54.56:103][517]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2017.10.26-03.54.56:103][517]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 128X128)
+[2017.10.26-03.54.56:103][517]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 128X128)
+[2017.10.26-03.54.56:103][517]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 256X256)
+[2017.10.26-03.54.56:103][517]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 256X256)
+[2017.10.26-03.54.56:103][517]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 128X128)
+[2017.10.26-03.54.56:103][517]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 128X128)
+[2017.10.26-03.54.56:103][517]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 64X64)
+[2017.10.26-03.54.56:103][517]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 64X64)
+[2017.10.26-03.54.56:103][517]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 256X64)
+[2017.10.26-03.54.56:103][517]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 128X64)
+[2017.10.26-03.54.56:103][517]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 32X32)
+[2017.10.26-03.54.56:103][517]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 256X64)
+[2017.10.26-03.54.56:103][517]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 256X64)
+[2017.10.26-03.54.56:103][517]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 128X64)
+[2017.10.26-03.54.56:121][517]Lightmass on DESKTOP-SSL098G: 20.8 sec total, 158 ms importing, 87 ms setup, 2.10 sec photons, 18.4 sec processing, 0 ms extra exporting [17/17 mappings]. Threads: 2:09 min total, 7.91 sec processing.
+[2017.10.26-03.54.56:146][517]LogStaticLightingSystem: Illumination: 26.1 sec (137 ms encoding lightmaps, 74 ms encoding shadowmaps)
+[2017.10.26-03.54.56:146][517]LogStaticLightingSystem: Lightmap texture memory:  0.4 MB (0.4 MB streaming, 0.0 MB non-streaming), 12 textures
+[2017.10.26-03.54.56:146][517]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 6 textures
+[2017.10.26-03.54.56:554][517]DumpUnbuiltLightIteractions
+[2017.10.26-03.54.56:554][517]Lights with unbuilt interactions: 0
+[2017.10.26-03.54.56:554][517]
+[2017.10.26-03.54.56:554][517]Primitives with unbuilt interactions: 0
+[2017.10.26-03.54.56:556][518]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.10.26-03.54.56:556][518]MapCheck: New page: Level_1 - Oct 25, 2017, 1:54:56 PM
+[2017.10.26-03.54.56:596][518]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 39.876ms to complete.
+[2017.10.26-03.54.59:226][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.26-03.54.59:387][830]LogSavePackage: Save=150.17ms
+[2017.10.26-03.54.59:387][830]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_1F0F0BA53447B48F852D26D9F6FA86BBA.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap'
+[2017.10.26-03.54.59:390][830]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap
+[2017.10.26-03.54.59:400][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1_BuiltData" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset" SILENT=true
+[2017.10.26-03.54.59:451][830]LogSavePackage: Save=49.10ms
+[2017.10.26-03.54.59:452][830]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_1_BuiltData69F0E1EF4E11CA86FF50DC93E26EC332.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset'
+[2017.10.26-03.54.59:455][830]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset
+[2017.10.26-03.55.46:438][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.26-03.55.46:602][446]LogSavePackage: Save=152.34ms
+[2017.10.26-03.55.46:602][446]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_1B4E1850A4A168F7078A554B503E288AD.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap'
+[2017.10.26-03.55.46:605][446]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap
+[2017.10.26-03.55.46:616][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1_BuiltData" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset" SILENT=true
+[2017.10.26-03.55.46:668][446]LogSavePackage: Save=49.95ms
+[2017.10.26-03.55.46:668][446]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_1_BuiltDataEEAB3F324050643DC85671BEAC73F40B.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset'
+[2017.10.26-03.55.46:670][446]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset
+[2017.10.26-03.55.53:461][249]MapCheck: New page: Map Check
+[2017.10.26-03.55.53:471][249]Cmd: MAP REBUILD ALLVISIBLE
+[2017.10.26-03.55.53:471][249]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.10.26-03.55.53:494][249]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.10.26-03.55.53:500][249]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_5, compiling. 
+[2017.10.26-03.55.53:505][249]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy LandscapeGizmo_Mat, compiling. 
+[2017.10.26-03.55.53:905][249]TextureStreamingBuild: Display: Compiling optional shaders took 0.415 seconds.
+[2017.10.26-03.55.53:907][249]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2017.10.26-03.55.53:911][249]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2017.10.26-03.55.53:920][249]LightingResults: New page: Lighting Build - Oct 25, 2017, 1:55:53 PM
+[2017.10.26-03.55.53:929][249]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.10.26-03.55.53:931][249]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.10.26-03.55.53:931][249]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.10.26-03.55.53:932][249]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.10.26-03.55.53:932][249]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11228
+[2017.10.26-03.55.58:439][249]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.10.26-03.55.58:439][249]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.10.26-03.55.58:439][249]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.10.26-03.55.58:439][249]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.10.26-03.55.58:439][249]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.10.26-03.55.58:527][249]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.10.26-03.55.58:527][249]MapCheck: New page: Level_1 - Oct 25, 2017, 1:55:58 PM
+[2017.10.26-03.55.58:567][249]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 39.601ms to complete.
+[2017.10.26-03.55.58:589][249]LogEditorBuildUtils: Build time 0:05
+[2017.10.26-03.56.21:126][393]Job is a success!
+[2017.10.26-03.56.21:368][395]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.209s
+[2017.10.26-03.56.21:368][395]LogVolumetricLightmapImport:      Indirection Texture 48x48x48 = 0.4Mb
+[2017.10.26-03.56.21:369][395]LogVolumetricLightmapImport:      BrickData 1280x40x5 = 7.1Mb
+[2017.10.26-03.56.21:369][395]LogVolumetricLightmapImport:      Bricks at Level
+[2017.10.26-03.56.21:369][395]LogVolumetricLightmapImport:          0: 1.4% covering 100.0% of volume
+[2017.10.26-03.56.21:369][395]LogVolumetricLightmapImport:          1: 6.3% covering 7.0% of volume
+[2017.10.26-03.56.21:369][395]LogVolumetricLightmapImport:          2: 92.3% covering 1.6% of volume
+[2017.10.26-03.56.21:575][395]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2017.10.26-03.56.21:575][395]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2017.10.26-03.56.21:576][395]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2017.10.26-03.56.21:576][395]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 128X128)
+[2017.10.26-03.56.21:576][395]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 128X128)
+[2017.10.26-03.56.21:576][395]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2017.10.26-03.56.21:576][395]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2017.10.26-03.56.21:576][395]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2017.10.26-03.56.21:576][395]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 128X128)
+[2017.10.26-03.56.21:576][395]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2017.10.26-03.56.21:576][395]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2017.10.26-03.56.21:576][395]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 128X128)
+[2017.10.26-03.56.21:576][395]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 256X64)
+[2017.10.26-03.56.21:576][395]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 256X64)
+[2017.10.26-03.56.21:576][395]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 256X64)
+[2017.10.26-03.56.21:576][395]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 128X64)
+[2017.10.26-03.56.21:576][395]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 32X32)
+[2017.10.26-03.56.21:576][395]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 128X64)
+[2017.10.26-03.56.21:594][395]Lightmass on DESKTOP-SSL098G: 22.4 sec total, 173 ms importing, 93 ms setup, 2.22 sec photons, 19.9 sec processing, 0 ms extra exporting [17/17 mappings]. Threads: 2:19 min total, 8.35 sec processing.
+[2017.10.26-03.56.21:620][395]LogStaticLightingSystem: Illumination: 27.6 sec (125 ms encoding lightmaps, 58 ms encoding shadowmaps)
+[2017.10.26-03.56.21:620][395]LogStaticLightingSystem: Lightmap texture memory:  0.4 MB (0.4 MB streaming, 0.0 MB non-streaming), 12 textures
+[2017.10.26-03.56.21:620][395]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 6 textures
+[2017.10.26-03.56.22:454][395]DumpUnbuiltLightIteractions
+[2017.10.26-03.56.22:454][395]Lights with unbuilt interactions: 0
+[2017.10.26-03.56.22:454][395]
+[2017.10.26-03.56.22:454][395]Primitives with unbuilt interactions: 0
+[2017.10.26-03.56.22:462][396]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.10.26-03.56.22:462][396]MapCheck: New page: Level_1 - Oct 25, 2017, 1:56:22 PM
+[2017.10.26-03.56.22:504][396]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 41.97ms to complete.
+[2017.10.26-03.57.18:169][636]LogSlate: Took 0.026035 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.10.26-03.57.48:375][ 35]Running A:/Unreal Engine Things/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Stoopid_FPS.uproject" -game -rocket -progress
+[2017.10.26-03.57.48:577][ 35]Discovering modules, targets and source code for project...
+[2017.10.26-03.57.56:304][ 35]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.26-03.57.57:219][ 35]LogHotReload: Recompiling module Stoopid_FPS...
+[2017.10.26-03.57.57:239][ 35]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2017.10.26-03.57.57:251][ 35]Candidate modules for hot reload:
+[2017.10.26-03.57.57:251][ 35]  Stoopid_FPS
+[2017.10.26-03.57.57:252][ 35]Launching UnrealBuildTool... [A:/Unreal Engine Things/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe Stoopid_FPS -Module Stoopid_FPS Win64 Development -editorrecompile -canskiplink "C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Stoopid_FPS.uproject" ]
+[2017.10.26-03.59.01:733][ 35]Performing full C++ include scan (hot reloading a new target)
+Using 'git status' to determine working set for adaptive non-unity build.
+Compiling game modules for hot reload
+Parsing headers for Stoopid_FPSEditor
+  Running UnrealHeaderTool "C:\Users\antma\Documents\GitHub\Stoopid-FPS\Stoopid_FPS\Stoopid_FPS.uproject" "C:\Users\antma\Documents\GitHub\Stoopid-FPS\Stoopid_FPS\Intermediate\Build\Win64\Stoopid_FPSEditor\Development\Stoopid_FPSEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+Reflection code generated for Stoopid_FPSEditor in 7.2734379 seconds
+Performing 9 actions (4 in parallel)
+[2/9] Resource ModuleVersionResource.rc.inl
+[3/9] Resource PCLaunch.rc
+SharedPCH.Engine.cpp
+Stoopid_FPS.init.gen.cpp
+CL_StoopidFPS_Gamemode.gen.cpp
+CL_StoopidFPS_Gamemode.cpp
+Stoopid_FPS.cpp
+[8/9] Link UE4Editor-Stoopid_FPS.dll
+[9/9] Link UE4Editor-Stoopid_FPS.lib
+   Creating library C:\Users\antma\Documents\GitHub\Stoopid-FPS\Stoopid_FPS\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Stoopid_FPS.lib and object C:\Users\antma\Documents\GitHub\Stoopid-FPS\Stoopid_FPS\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Stoopid_FPS.exp
+   Creating library C:\Users\antma\Documents\GitHub\Stoopid-FPS\Stoopid_FPS\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Stoopid_FPS.suppressed.lib and object C:\Users\antma\Documents\GitHub\Stoopid-FPS\Stoopid_FPS\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Stoopid_FPS.suppressed.exp
+Total build time: 64.32 seconds (Local executor: 25.22 seconds)
+
+[2017.10.26-03.59.01:734][ 35]CompilerResultsLog: New page: Compilation - Oct 25, 2017, 1:59:01 PM
+[2017.10.26-03.59.01:734][ 35]CompilerResultsLog: Performing full C++ include scan (hot reloading a new target)
+[2017.10.26-03.59.01:734][ 35]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2017.10.26-03.59.01:734][ 35]CompilerResultsLog: Compiling game modules for hot reload
+[2017.10.26-03.59.01:734][ 35]CompilerResultsLog: Parsing headers for Stoopid_FPSEditor
+[2017.10.26-03.59.01:734][ 35]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\antma\Documents\GitHub\Stoopid-FPS\Stoopid_FPS\Stoopid_FPS.uproject" "C:\Users\antma\Documents\GitHub\Stoopid-FPS\Stoopid_FPS\Intermediate\Build\Win64\Stoopid_FPSEditor\Development\Stoopid_FPSEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.10.26-03.59.01:734][ 35]CompilerResultsLog: Reflection code generated for Stoopid_FPSEditor in 7.2734379 seconds
+[2017.10.26-03.59.01:734][ 35]CompilerResultsLog: Performing 9 actions (4 in parallel)
+[2017.10.26-03.59.01:734][ 35]CompilerResultsLog: [2/9] Resource ModuleVersionResource.rc.inl
+[2017.10.26-03.59.01:734][ 35]CompilerResultsLog: [3/9] Resource PCLaunch.rc
+[2017.10.26-03.59.01:734][ 35]CompilerResultsLog: SharedPCH.Engine.cpp
+[2017.10.26-03.59.01:734][ 35]CompilerResultsLog: Stoopid_FPS.init.gen.cpp
+[2017.10.26-03.59.01:734][ 35]CompilerResultsLog: CL_StoopidFPS_Gamemode.gen.cpp
+[2017.10.26-03.59.01:734][ 35]CompilerResultsLog: CL_StoopidFPS_Gamemode.cpp
+[2017.10.26-03.59.01:734][ 35]CompilerResultsLog: Stoopid_FPS.cpp
+[2017.10.26-03.59.01:734][ 35]CompilerResultsLog: [8/9] Link UE4Editor-Stoopid_FPS.dll
+[2017.10.26-03.59.01:734][ 35]CompilerResultsLog: [9/9] Link UE4Editor-Stoopid_FPS.lib
+[2017.10.26-03.59.01:734][ 35]CompilerResultsLog:    Creating library C:\Users\antma\Documents\GitHub\Stoopid-FPS\Stoopid_FPS\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Stoopid_FPS.lib and object C:\Users\antma\Documents\GitHub\Stoopid-FPS\Stoopid_FPS\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Stoopid_FPS.exp
+[2017.10.26-03.59.01:734][ 35]CompilerResultsLog:    Creating library C:\Users\antma\Documents\GitHub\Stoopid-FPS\Stoopid_FPS\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Stoopid_FPS.suppressed.lib and object C:\Users\antma\Documents\GitHub\Stoopid-FPS\Stoopid_FPS\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Stoopid_FPS.suppressed.exp
+[2017.10.26-03.59.01:734][ 35]CompilerResultsLog: Total build time: 64.32 seconds (Local executor: 25.22 seconds)
+[2017.10.26-03.59.01:734][ 35]LogMainFrame: MainFrame: Module compiling took 64.495 seconds
+[2017.10.26-03.59.01:734][ 35]Reloading module Stoopid_FPS after successful compile.
+[2017.10.26-03.59.01:776][ 35]LogClass: Could not find existing package /Script/Stoopid_FPS for HotReload of class CL_StoopidFPS_Gamemode, assuming a new package.
+[2017.10.26-03.59.01:778][ 35]LogContentBrowser: Native class hierarchy updated for 'Stoopid_FPS' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.10.26-03.59.01:797][ 35]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2366 classes and 525 folders.
+[2017.10.26-03.59.40:383][438]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.10.26-03.59.40:397][439]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.10.26-04.00.12:662][440]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Source/Stoopid_FPS/CL_StoopidFPS_Gamemode.h'
+[2017.10.26-04.00.12:762][440]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Source/Stoopid_FPS/CL_StoopidFPS_Gamemode.cpp'
+[2017.10.26-04.01.14:337][ 90]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2017.10.26-04.01.14:891][ 90]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2017.10.26-04.01.14:953][ 90]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2017.10.26-04.01.16:572][147]LogRenderer: Reallocating scene render targets to support 1240x940 Format 10 NumSamples 1 (Frame:56).
+[2017.10.26-04.01.24:872][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.26-04.01.25:065][ 86]LogSavePackage: Save=155.71ms
+[2017.10.26-04.01.25:065][ 86]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_1B4B3FB4A42D3AC1D981CD19D5F3AF6B3.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap'
+[2017.10.26-04.01.25:070][ 86]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1.umap
+[2017.10.26-04.01.25:114][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1_BuiltData" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset" SILENT=true
+[2017.10.26-04.01.25:177][ 86]LogSavePackage: Save=51.48ms
+[2017.10.26-04.01.25:177][ 86]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Level_1_BuiltDataDE0E2C864F87D582236639BCC8C76378.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset'
+[2017.10.26-04.01.25:181][ 86]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Level_1_BuiltData.uasset
+[2017.10.26-04.03.48:466][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_StoopidFPS_Gamemode" FILE="C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Blueprints/BP_StoopidFPS_Gamemode.uasset" SILENT=true
+[2017.10.26-04.03.48:481][ 18]LogSavePackage: Save=12.36ms
+[2017.10.26-04.03.48:481][ 18]LogSavePackage: Moving 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/BP_StoopidFPS_Gamemode4C643AAD4E83DF8606D91C9136E86314.tmp' to 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Blueprints/BP_StoopidFPS_Gamemode.uasset'
+[2017.10.26-04.03.48:484][ 18]LogSavePackage: Display: Finished SavePackage C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Blueprints/BP_StoopidFPS_Gamemode.uasset
+[2017.10.26-04.03.48:539][ 18]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.26-04.03.48:746][ 19]Cmd: QUIT_EDITOR
+[2017.10.26-04.03.48:778][ 19]LogExit: Preparing to exit.
+[2017.10.26-04.03.49:701][ 19]LogExit: Editor shut down
+[2017.10.26-04.03.49:706][ 19]LogExit: Transaction tracking system shut down
+[2017.10.26-04.03.49:908][ 19]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.10.26-04.03.49:908][ 19]LogDirectoryWatcher: A directory notification for 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/' was aborted.
+[2017.10.26-04.03.49:908][ 19]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.10.26-04.03.49:908][ 19]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.10.26-04.03.49:908][ 19]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.10.26-04.03.49:908][ 19]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.10.26-04.03.49:908][ 19]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.10.26-04.03.49:977][ 19]LogExit: Object subsystem successfully closed.
+[2017.10.26-04.03.49:997][ 19]LogD3D11RHI: Shutdown
+[2017.10.26-04.03.49:997][ 19]LogD3D11RHI: CleanupD3DDevice
+[2017.10.26-04.03.49:999][ 19]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.10.26-04.03.50:008][ 19]LogModuleManager: Shutting down and abandoning module BlueprintGraph (554)
+[2017.10.26-04.03.50:008][ 19]LogModuleManager: Shutting down and abandoning module Stoopid_FPS (552)
+[2017.10.26-04.03.50:008][ 19]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2017.10.26-04.03.50:008][ 19]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2017.10.26-04.03.50:008][ 19]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2017.10.26-04.03.50:008][ 19]LogDirectoryWatcher: A directory notification for 'A:/Unreal Engine Things/UE_4.18/FeaturePacks/' was aborted.
+[2017.10.26-04.03.50:010][ 19]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2017.10.26-04.03.50:010][ 19]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2017.10.26-04.03.50:010][ 19]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2017.10.26-04.03.50:010][ 19]LogDirectoryWatcher: A directory notification for 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Collections/' was aborted.
+[2017.10.26-04.03.50:010][ 19]LogDirectoryWatcher: A directory notification for 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Content/Developers/antma/Collections/' was aborted.
+[2017.10.26-04.03.50:010][ 19]LogDirectoryWatcher: A directory notification for 'C:/Users/antma/Documents/GitHub/Stoopid-FPS/Stoopid_FPS/Saved/Collections/' was aborted.
+[2017.10.26-04.03.50:010][ 19]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (538)
+[2017.10.26-04.03.50:010][ 19]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2017.10.26-04.03.50:010][ 19]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.10.26-04.03.50:010][ 19]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.10.26-04.03.50:010][ 19]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.10.26-04.03.50:010][ 19]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.10.26-04.03.50:010][ 19]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.10.26-04.03.50:010][ 19]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.10.26-04.03.50:010][ 19]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.10.26-04.03.50:010][ 19]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.10.26-04.03.50:010][ 19]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.10.26-04.03.50:010][ 19]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.10.26-04.03.50:010][ 19]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.10.26-04.03.50:010][ 19]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.10.26-04.03.50:010][ 19]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.10.26-04.03.50:010][ 19]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.10.26-04.03.50:011][ 19]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.10.26-04.03.50:011][ 19]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.10.26-04.03.50:011][ 19]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.10.26-04.03.50:011][ 19]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.10.26-04.03.50:011][ 19]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.10.26-04.03.50:011][ 19]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.10.26-04.03.50:011][ 19]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.10.26-04.03.50:011][ 19]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.10.26-04.03.50:011][ 19]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.10.26-04.03.50:011][ 19]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.10.26-04.03.50:011][ 19]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.10.26-04.03.50:011][ 19]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.10.26-04.03.50:011][ 19]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.10.26-04.03.50:011][ 19]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.10.26-04.03.50:011][ 19]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.10.26-04.03.50:011][ 19]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.10.26-04.03.50:011][ 19]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.10.26-04.03.50:011][ 19]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.10.26-04.03.50:011][ 19]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.10.26-04.03.50:011][ 19]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.10.26-04.03.50:011][ 19]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.10.26-04.03.50:011][ 19]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.10.26-04.03.50:011][ 19]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.10.26-04.03.50:011][ 19]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.10.26-04.03.50:011][ 19]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.10.26-04.03.50:011][ 19]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.10.26-04.03.50:067][ 19]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.10.26-04.03.50:067][ 19]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.10.26-04.03.50:067][ 19]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.10.26-04.03.50:067][ 19]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.10.26-04.03.50:067][ 19]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.10.26-04.03.50:067][ 19]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.10.26-04.03.50:067][ 19]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.10.26-04.03.50:067][ 19]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.10.26-04.03.50:067][ 19]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.10.26-04.03.50:067][ 19]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.10.26-04.03.50:067][ 19]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.10.26-04.03.50:067][ 19]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.10.26-04.03.50:067][ 19]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.10.26-04.03.50:067][ 19]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.10.26-04.03.50:067][ 19]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.10.26-04.03.50:067][ 19]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.10.26-04.03.50:067][ 19]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.10.26-04.03.50:068][ 19]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.10.26-04.03.50:068][ 19]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.10.26-04.03.50:068][ 19]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.10.26-04.03.50:068][ 19]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.10.26-04.03.50:068][ 19]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.10.26-04.03.50:068][ 19]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.10.26-04.03.50:068][ 19]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.10.26-04.03.50:130][ 19]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.10.26-04.03.50:130][ 19]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.10.26-04.03.50:130][ 19]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.10.26-04.03.50:130][ 19]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.10.26-04.03.50:130][ 19]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.10.26-04.03.50:130][ 19]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.10.26-04.03.50:130][ 19]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.10.26-04.03.50:130][ 19]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.10.26-04.03.50:130][ 19]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.10.26-04.03.50:130][ 19]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.10.26-04.03.50:135][ 19]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.10.26-04.03.50:136][ 19]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.10.26-04.03.50:136][ 19]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.10.26-04.03.50:136][ 19]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.10.26-04.03.50:136][ 19]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.10.26-04.03.50:137][ 19]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.10.26-04.03.50:137][ 19]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.10.26-04.03.50:137][ 19]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.10.26-04.03.50:137][ 19]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.10.26-04.03.50:137][ 19]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.10.26-04.03.50:137][ 19]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.10.26-04.03.50:137][ 19]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.10.26-04.03.50:137][ 19]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.10.26-04.03.50:137][ 19]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.10.26-04.03.50:137][ 19]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.10.26-04.03.50:137][ 19]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.10.26-04.03.50:137][ 19]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.10.26-04.03.50:137][ 19]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.10.26-04.03.50:137][ 19]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2017.10.26-04.03.50:137][ 19]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2017.10.26-04.03.50:215][ 19]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2017.10.26-04.03.50:215][ 19]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2017.10.26-04.03.50:215][ 19]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2017.10.26-04.03.50:215][ 19]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2017.10.26-04.03.50:215][ 19]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2017.10.26-04.03.50:215][ 19]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2017.10.26-04.03.50:215][ 19]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2017.10.26-04.03.50:215][ 19]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2017.10.26-04.03.50:215][ 19]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2017.10.26-04.03.50:215][ 19]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2017.10.26-04.03.50:215][ 19]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2017.10.26-04.03.50:215][ 19]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2017.10.26-04.03.50:215][ 19]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2017.10.26-04.03.50:215][ 19]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2017.10.26-04.03.50:215][ 19]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2017.10.26-04.03.50:215][ 19]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2017.10.26-04.03.50:215][ 19]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2017.10.26-04.03.50:215][ 19]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2017.10.26-04.03.50:216][ 19]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2017.10.26-04.03.50:216][ 19]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2017.10.26-04.03.50:216][ 19]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2017.10.26-04.03.50:216][ 19]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2017.10.26-04.03.50:216][ 19]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2017.10.26-04.03.50:216][ 19]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2017.10.26-04.03.50:216][ 19]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2017.10.26-04.03.50:216][ 19]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2017.10.26-04.03.50:216][ 19]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2017.10.26-04.03.50:216][ 19]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2017.10.26-04.03.50:216][ 19]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2017.10.26-04.03.50:216][ 19]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2017.10.26-04.03.50:216][ 19]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2017.10.26-04.03.50:216][ 19]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2017.10.26-04.03.50:216][ 19]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2017.10.26-04.03.50:216][ 19]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2017.10.26-04.03.50:216][ 19]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2017.10.26-04.03.50:217][ 19]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2017.10.26-04.03.50:217][ 19]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2017.10.26-04.03.50:217][ 19]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2017.10.26-04.03.50:217][ 19]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.10.26-04.03.50:217][ 19]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.10.26-04.03.50:217][ 19]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.10.26-04.03.50:217][ 19]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.10.26-04.03.50:217][ 19]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.10.26-04.03.50:217][ 19]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.10.26-04.03.50:217][ 19]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.10.26-04.03.50:217][ 19]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.10.26-04.03.50:318][ 19]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.10.26-04.03.50:419][ 19]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.10.26-04.03.50:419][ 19]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.10.26-04.03.50:419][ 19]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.10.26-04.03.50:419][ 19]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.10.26-04.03.50:419][ 19]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.10.26-04.03.50:419][ 19]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.10.26-04.03.50:420][ 19]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.10.26-04.03.50:420][ 19]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.10.26-04.03.50:420][ 19]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.10.26-04.03.50:420][ 19]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.10.26-04.03.50:424][ 19]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.10.26-04.03.50:424][ 19]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.10.26-04.03.50:424][ 19]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.10.26-04.03.50:424][ 19]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.10.26-04.03.50:424][ 19]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.10.26-04.03.50:424][ 19]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.10.26-04.03.50:430][ 19]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.10.26-04.03.50:430][ 19]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.10.26-04.03.50:430][ 19]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.10.26-04.03.50:430][ 19]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.10.26-04.03.50:430][ 19]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.10.26-04.03.50:430][ 19]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.10.26-04.03.50:430][ 19]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.10.26-04.03.50:430][ 19]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.10.26-04.03.50:430][ 19]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.10.26-04.03.50:430][ 19]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.10.26-04.03.50:430][ 19]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.10.26-04.03.50:430][ 19]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.10.26-04.03.50:430][ 19]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.10.26-04.03.50:430][ 19]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.10.26-04.03.50:430][ 19]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.10.26-04.03.50:430][ 19]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.10.26-04.03.50:432][ 19]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.10.26-04.03.50:432][ 19]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.10.26-04.03.50:432][ 19]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.10.26-04.03.50:432][ 19]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.10.26-04.03.50:432][ 19]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.10.26-04.03.50:432][ 19]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.10.26-04.03.50:432][ 19]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.10.26-04.03.50:432][ 19]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.10.26-04.03.50:432][ 19]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.10.26-04.03.50:432][ 19]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.10.26-04.03.50:432][ 19]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.10.26-04.03.50:432][ 19]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.10.26-04.03.50:432][ 19]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.10.26-04.03.50:432][ 19]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.10.26-04.03.50:432][ 19]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.10.26-04.03.50:432][ 19]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.10.26-04.03.50:433][ 19]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.10.26-04.03.50:527][ 19]LogDerivedDataCache: Shutdown
+[2017.10.26-04.03.50:527][ 19]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.10.26-04.03.50:527][ 19]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.10.26-04.03.50:527][ 19]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.10.26-04.03.50:527][ 19]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.10.26-04.03.50:527][ 19]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.10.26-04.03.50:527][ 19]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.10.26-04.03.50:527][ 19]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.10.26-04.03.50:527][ 19]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.10.26-04.03.50:527][ 19]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.10.26-04.03.50:527][ 19]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.10.26-04.03.50:527][ 19]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.10.26-04.03.50:527][ 19]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.10.26-04.03.50:527][ 19]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.10.26-04.03.50:527][ 19]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.10.26-04.03.50:527][ 19]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.10.26-04.03.50:527][ 19]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.10.26-04.03.50:528][ 19]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.10.26-04.03.50:528][ 19]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.10.26-04.03.50:528][ 19]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCC44BCC2-4019-5532-973B-BFBB90E9C5FF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.0-3709383%2B%2B%2BUE4%2BRelease-4.18&UserID=520f5a664a9a65cee5908a8fb9436eea%7C69a6443c127b4b76b30856c672c512b8%7Ce6cd1087-9776-45de-91c8-004f73fe86c1&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.10.26-04.03.50:549][ 19]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.10.26-04.03.50:551][ 19]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.10.26-04.03.50:551][ 19]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.10.26-04.03.50:551][ 19]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.10.26-04.03.50:551][ 19]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.10.26-04.03.50:551][ 19]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.10.26-04.03.50:551][ 19]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.10.26-04.03.50:551][ 19]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.10.26-04.03.50:552][ 19]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.10.26-04.03.50:552][ 19]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.10.26-04.03.50:552][ 19]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.10.26-04.03.50:552][ 19]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.10.26-04.03.50:552][ 19]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.10.26-04.03.50:552][ 19]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.10.26-04.03.50:552][ 19]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.10.26-04.03.50:552][ 19]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.10.26-04.03.50:552][ 19]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.10.26-04.03.50:552][ 19]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.10.26-04.03.50:552][ 19]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.10.26-04.03.50:556][ 19]LogExit: Exiting.
+[2017.10.26-04.03.50:567][ 19]Log file closed, 10/25/17 21:03:50

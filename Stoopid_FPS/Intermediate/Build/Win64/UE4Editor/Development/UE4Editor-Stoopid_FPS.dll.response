@@ -1,0 +1,67 @@
+/MANIFEST:NO
+/NOLOGO
+/DEBUG
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:5000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"d3d12.dll"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+"A:\Unreal Engine Things\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\antma\Documents\GitHub\Stoopid-FPS\Stoopid_FPS\Intermediate\Build\Win64\UE4Editor\Development\Stoopid_FPS\CL_StoopidFPS_Gamemode.cpp.obj"
+"C:\Users\antma\Documents\GitHub\Stoopid-FPS\Stoopid_FPS\Intermediate\Build\Win64\UE4Editor\Development\Stoopid_FPS\Stoopid_FPS.cpp.obj"
+"C:\Users\antma\Documents\GitHub\Stoopid-FPS\Stoopid_FPS\Intermediate\Build\Win64\UE4Editor\Development\Stoopid_FPS\CL_StoopidFPS_Gamemode.gen.cpp.obj"
+"C:\Users\antma\Documents\GitHub\Stoopid-FPS\Stoopid_FPS\Intermediate\Build\Win64\UE4Editor\Development\Stoopid_FPS\Stoopid_FPS.init.gen.cpp.obj"
+"A:\Unreal Engine Things\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Stoopid_FPS\PCLaunch.rc.res"
+"A:\Unreal Engine Things\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+"A:\Unreal Engine Things\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Engine.lib"
+"A:\Unreal Engine Things\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Core.lib"
+"A:\Unreal Engine Things\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CoreUObject.lib"
+"A:\Unreal Engine Things\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-InputCore.lib"
+/OUT:"C:\Users\antma\Documents\GitHub\Stoopid-FPS\Stoopid_FPS\Binaries\Win64\UE4Editor-Stoopid_FPS.dll"
+/IMPLIB:"C:\Users\antma\Documents\GitHub\Stoopid-FPS\Stoopid_FPS\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Stoopid_FPS.suppressed.lib"
+/PDB:"C:\Users\antma\Documents\GitHub\Stoopid-FPS\Stoopid_FPS\Binaries\Win64\UE4Editor-Stoopid_FPS.pdb"
+/ignore:4078
